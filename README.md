@@ -9,7 +9,7 @@ NumPy
 OpenCV
 ```
 
-**Run the code using:*** ```python main.py```
+***Run the code using:*** ```python main.py```
 
 ## Utility
 These days, anyone can easily fabricate the fingerprint of anyone with the help of latex, gelatin, etc. claim his/her indentity. To avoid this, this fingerprint spoof detection system has been made. Given an input image of a fingerprint, it classifies it as spoof or real. The accuracy using a simple linear SVM is up to more than 80% (and can be improved much using other complex models). This system can be used as an effective counter-measure against spoof
