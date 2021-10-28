@@ -1,8 +1,8 @@
 # Fingerprint-Spoof-Detection
 A fingerprint spoof detection system that uses Local Binary Pattern Histogram (LBPH) features (proposed in [A comparative study of texture measures with classification based on featured distributions](https://www.sciencedirect.com/science/article/abs/pii/0031320395000674)). It uses Support Vector Machines ([SVM](https://scikit-learn.org/stable/modules/svm.html)) as a classifier.
 ## Requirements
-**python 3**;
-**NumPy**;
+*python 3*;
+*NumPy*;
 **OpenCV**;
 **scikit-image**;
 **scikit-learn**;
